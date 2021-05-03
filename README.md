@@ -1,3 +1,8 @@
+
+# How to run the script
+
+To run the script, change the CSV file path and then run the script
+
 # Market Abuse Detection
 
 In this task we need to retrieve stock data for Amazon and analyse some client 
